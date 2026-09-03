@@ -1,0 +1,9 @@
+# 授权与凭证证据，禁止入库
+AUTHORIZATION.json
+*.key
+*.pem
+!references/authorized_pubkeys/example.pem
+
+# 本地测试痕迹
+*.log
+/tmp/

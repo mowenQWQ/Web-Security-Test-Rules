@@ -7,6 +7,10 @@
 </p>
 
 > 一套用于约束 AI / 人工进行 **已授权** 网站安全测试的规则与 Skill。先授权、后测试、最小影响、规范留痕。
+>
+> A rule-set & Skill constraining AI / human **authorized** web security testing: authorize first, test second, minimal impact, documented evidence.
+>
+> 🌐 **English version**: [locales/en/README.md](locales/en/README.md) · 中文版见下。
 
 ---
 
@@ -195,7 +199,7 @@ rm -rf ~/.codebuddy/skills/web-security-test-rules
 |---|---|---|
 | **`MOWEN`** | **15% OFF** | 首购 & 续费均可使用 |
 
-> 🔗 推广链接：[https://www.coreyun.net?ref=MOWEN](https://www.coreyun.net?ref=MOWEN)
+> 🔗 推广链接：[hhttps://www.coreyun.net?ref=MOWEN](https://www.coreyun.net?ref=MOWEN)
 >
 > ⚠️ **诚实声明**：以上信息来源于芯创云官网及公开搜索结果，未做任何夸大。本推荐含推广返利链接，但不影响上述描述的客观性。优惠码由合作方提供，具体生效条件以芯创云实际结算页面为准。请根据自身需求与实际体验自行判断，安全测试类用途请务必确认服务商条款允许。
 
