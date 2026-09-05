@@ -107,6 +107,7 @@ rm -rf /tmp/web-security-test-rules
 ## 规则概览
 
 - **23 条核心规则** + **A / B / C / D 扩展规则**，覆盖合规、证据留存、技术边界、专项场景。
+- **v0.3.0 新增**：规则 31（CDN/WAF 数据中心出口拦截识别——分层判定 + Request ID 加白处置）、规则 32（测试前置可达性检查——通道健康提为任务前置条件）。
 - **授权门禁**：非对称签名验签 + 白名单 + 有效期 + 多级降级 + 逃生口，先验证授权再测试。
 - **多语言**：通过环境变量 `MOWEN_LANG` 切换，文案集中于 `locales/`，以权威源为准。
 - **复查周期**：7 天 → 1 月 → 半年 → 1 年，结果持续追加，闭环管理。
@@ -210,3 +211,11 @@ rm -rf ~/.codebuddy/skills/web-security-test-rules
 **请始终在授权范围内使用本 Skill · Stay Authorized, Stay Safe.**
 
 </div>
+
+---
+
+## 🤖 AI 使用声明 / AI Usage Disclosure
+
+本项目在开发与维护过程中使用了 AI 编程助手（Claude / Anthropic）辅助代码编写、文档整理与问题排查；核心决策、内容审核与最终发布由维护者完成。
+
+This project was developed and maintained with the assistance of an AI coding assistant (Claude / Anthropic) for coding, documentation, and troubleshooting. Core decisions, content review, and final releases are made by the maintainer.
