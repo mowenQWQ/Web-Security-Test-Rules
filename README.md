@@ -12,6 +12,8 @@
 >
 > 🌐 **English version**: [locales/en/README.md](locales/en/README.md) · 中文版见下。
 
+> ⚠️ **AI 使用说明**：本作品由 AI 辅助生成（生成时间：2026-08-15）。仅供学习与参考使用，发布、引用或投入使用前请人工核实关键信息。
+
 ---
 
 ## 📑 目录
@@ -135,8 +137,6 @@ Web-Security-Test-Rules/
 |---|---|---|
 | `MOWEN_LANG` | 切换 Skill 输出语言 | `zh-CN` / `en-US` |
 
-
-
 ### 逃生口开关（三级应急旁路）
 
 > ⚠️ 逃生口是 **"已知风险、主动关闭部分校验"** 的开关，**不是授权本身**。
@@ -211,11 +211,3 @@ rm -rf ~/.codebuddy/skills/web-security-test-rules
 **请始终在授权范围内使用本 Skill · Stay Authorized, Stay Safe.**
 
 </div>
-
----
-
-## 🤖 AI 使用声明 / AI Usage Disclosure
-
-本项目在开发与维护过程中使用了 AI 编程助手（Claude / Anthropic）辅助代码编写、文档整理与问题排查；核心决策、内容审核与最终发布由维护者完成。
-
-This project was developed and maintained with the assistance of an AI coding assistant (Claude / Anthropic) for coding, documentation, and troubleshooting. Core decisions, content review, and final releases are made by the maintainer.
